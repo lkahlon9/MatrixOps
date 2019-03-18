@@ -1,0 +1,29 @@
+
+// Leena Kahlon
+// lkahlon
+// README
+// 11-5-17
+
+Contents
+
+~ Sparse.java
+     - client module; imports services from
+       Matrix.java
+     - reads Matrix entries from an input file 
+     - prints matrices and results of matrix
+       operations to an output file
+~ Matrix.java
+     - Matrix ADT module
+     - builds matrices and exports matrix 
+       operations
+~ List.java
+     - List ADT module
+     - creates double-ended queue of Objects;
+       client can access and alter its 
+       elements using a "cursor"
+~ MatrixTest.java : Test client for Matrix ADT 
+~ ListTest.java : Test client for List ADT
+~ Makefile
+     - creates executable jar file Sparse
+~ README
+
